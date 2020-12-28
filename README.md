@@ -69,6 +69,7 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-for-a-user
 https://superuser.com/questions/265062/downloading-file-from-ftp-using-curl <br />
 https://itgala.xyz/how-to-upload-a-file-to-remote-ftps-with-curl-and-php/ <br />
 https://www.howtoforge.com/tutorial/how-to-use-ftp-on-the-linux-shell/ <br />
+curl --ftp-ssl --insecure --user user:password ftp://IP <br />
 
 grafana: <br />
 https://www.datadoghq.com/blog/how-to-collect-and-graph-kubernetes-metrics/ <br />
