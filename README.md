@@ -74,6 +74,7 @@ curl --ftp-ssl --insecure --user user:password ftp://IP <br />
 grafana: <br />
 https://www.datadoghq.com/blog/how-to-collect-and-graph-kubernetes-metrics/ <br />
 https://grafana.com/docs/grafana/latest/administration/provisioning/#datasources <br />
+https://medium.com/@chris_linguine/how-to-monitor-your-kubernetes-cluster-with-prometheus-and-grafana-fe2fccaedb90 <br />
 
 wordpress: <br />
 https://codingwithmanny.medium.com/custom-wordpress-docker-setup-8851e98e6b8<br />
