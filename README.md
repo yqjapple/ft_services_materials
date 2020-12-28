@@ -77,4 +77,8 @@ https://grafana.com/docs/grafana/latest/administration/provisioning/#datasources
 wordpress: <br />
 https://codingwithmanny.medium.com/custom-wordpress-docker-setup-8851e98e6b8<br />
 
+sshcommand <br />
+ssh user@host -p port -vvv <br />
+
+
 
